@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- I'm currently a postdoc at UVA in the Department of Genome Sciences. This account is going to serve as an initial repository for the code generated for my publications, as well as any other personal stuff I happen to write and share.
+
 <!--
 **Nik-Barbera/Nik-Barbera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
